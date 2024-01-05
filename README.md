@@ -1,13 +1,13 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&duration=2500&pause=1000&color=541579&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=500&height=100&lines=Hello%2C+guys...;I'm+Luiz+Paulo+Lima;What's+up%3F)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+guys...;I'm+Luiz+Paulo+Lima;What's+up%3F)](https://git.io/typing-svg)
 
 ## Sobre mim
 * Cursando o 2º Período de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade.
 * Bacharel em Direito pelo UNISAL
 
-## Conecte-se comigo
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-paulo-ribeiro-de-lima-b76727177/)
-* [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizpaulolima.adv/)
-* [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/luizpaulorlima)
+## GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizpaulorlima&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizpaulorlima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
 
 ## Habilidades
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -20,7 +20,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizpaulorlima&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizpaulorlima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
+## Conecte-se comigo
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-paulo-ribeiro-de-lima-b76727177/)
+* [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizpaulolima.adv/)
+* [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/luizpaulorlima)
