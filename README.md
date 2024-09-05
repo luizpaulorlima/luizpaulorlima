@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+guys...;I'm+Luiz+Paulo+Lima;What's+up%3F)](https://git.io/typing-svg)
 
 ## Sobre mim
-* Cursando o 2º Período de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade.
+* Cursando o 3º Período de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade.
 * Bacharel em Direito pelo UNISAL
 
 ## GitHub Stats
