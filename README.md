@@ -31,12 +31,7 @@
 * ☁️ **Certificação:** Focado nos estudos para a **AWS Certified Cloud Practitioner**.
 * 🐧 **Linux:** Praticando administração de sistemas e automação via terminal.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizpaulorlima&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=luizpaulorlima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" alt="GitHub Stats" />
-</p>
-
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-paulo-ribeiro-de-lima-b76727177/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizpaulorlima)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizpaulorlima/)
