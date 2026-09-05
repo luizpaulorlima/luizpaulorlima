@@ -68,3 +68,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizpaulorlima/)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Luiz%20Paulo%20Lima&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Node.js&descSize=18&descAlignY=55)
+
+<div align="center">
+
+![Metrics](metrics_renders/metrics.svg)
+
+</div>
